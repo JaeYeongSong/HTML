@@ -1,6 +1,5 @@
 # HTML
 Tistory 블로그 Xsop - https://xsop.tistory.com  
-네이버 블로그 Xsop - https://blog.naver.com/xsop-blog
 
 
 HTML 저장소는 HTML의 예제 코드들을 업로드하는 저장소입니다. 
